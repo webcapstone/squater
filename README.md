@@ -1,2 +1,2 @@
 # squater
-squat
+squat-estimate
